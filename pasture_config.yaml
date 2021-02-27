@@ -1,0 +1,7 @@
+---
+:default_character: Stegosaurus
+:default_message: Hello
+:sinatra_settings:
+:port: 80
+:server: webrick
+
