@@ -1,3 +1,4 @@
+#Puppet file
 class pasture::base {
 
  package { ‘gem’:
